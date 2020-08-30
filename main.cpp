@@ -1,4 +1,5 @@
-void main()
+void show()
 {
 	cout << "Main file" << endl;
 }
+
