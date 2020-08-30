@@ -10,3 +10,6 @@ void main2()
 	cout << "Main file2" << endl;
 	cout << "Main file3" << endl;
 }
+int func() {
+	cout << "goodbuy" << endl;
+}
